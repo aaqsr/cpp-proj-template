@@ -39,7 +39,7 @@ obj/
 
 # output
 *.zip
-vm
+app
 
 # idea
 .idea
